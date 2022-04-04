@@ -20,7 +20,7 @@ ul {
 ol {list-style-type: lower-alpha;
 }
 
-div {
+div.profile-img {
     border: 2px dotted;
     width: 200px;
     height:200px;
